@@ -275,7 +275,7 @@ img {
 
 .animasi {
     transition: all 0.1s;
-    .webkit-trantition: all 0.1s;
+    .webkit-transtition: all 0.1s;
 }
 
 .tombol-aktif {
